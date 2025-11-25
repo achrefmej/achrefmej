@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Achref%20Mejri&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Ingénieur%20DevOps%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Architect&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Achref%20Mejri&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Ingénieur%20Full-Stack%20%7C%20Web%20%26%20Mobile%20%7C%20Software%20Architect&descSize=18&descAlignY=55"/>
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Transforming+Ideas+into+Digital+Reality;☁️+DevOps+Engineer+%7C+Cloud+Enthusiast;💡+Innovation+Driven+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Scalable+Web+%26+Mobile+Solutions;🤖+AI+Integration+%7C+Real-time+Applications;💡+Software+Architecture+%7C+User-Centric+Design)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
-║  👨‍💻 DevOps Engineer  | 🎓 Ingénieur en Informatique             ║
+║  👨‍💻 Full-Stack Engineer | 🎓 Ingénieur en Informatique          ║
 ║  🌍 Tunis, Tunisie   | 📧 mejri.achref.working@gmail.com        ║
 ║  🔗 LinkedIn: achref-mejri-8a9253179                            ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -35,24 +35,27 @@
 
 ```yaml
 name: Achref Mejri
-role: Ingénieur DevOps & Développeur Full-Stack
+role: Ingénieur Full-Stack | Web & Mobile Developer
 location: Tunis, Tunisie
-email: achref.mejri.gl@gmail.com
+email: mejri.achref.working@gmail.com
 education: 
   - degree: "Ingénieur en Informatique"
-    specialization: "Génie Logiciel & Systèmes d'Information"
-    institution: "Esprit Ecole Supérieure Privée d'Ingénierie et de Technologie"
+    specialization: "Génie Logiciel & Architecture des Systèmes d'Information"
+    institution: "Esprit - École Supérieure Privée d'Ingénierie et de Technologie"
     year: "2020 - 2025"
 
-passion: 
-  - DevOps & Cloud Architecture
-  - Automatisation & CI/CD
-  - Solutions Innovantes
-  - Développement Full-Stack
+expertise: 
+  - Applications Web & Mobile (Angular, React, Next.js, Ionic)
+  - Applications Temps Réel (WebSockets, Socket.IO)
+  - Intégration IA (Chatbots, NLP, ChatGPT API)
+  - Architecture Logicielle Scalable
+  - Backend (Node.js, Python, GraphQL, NestJS)
+  - Frontend (Angular, React, Next.js, TailwindCSS)
+  - Bases de Données (PostgreSQL, MongoDB, Redis)
   
 philosophy: |
-  "Le code est de la poésie,
-   DevOps est l'orchestre qui la fait vivre"
+  "Concevoir des solutions scalables, centrées utilisateur
+   et orientées performance pour transformer les idées en réalité"
 ```
 
 <br clear="both"/>
@@ -94,64 +97,7 @@ philosophy: |
 </tr>
 </table>
 
-### ☁️ DevOps & Cloud
-
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br>Docker
-</td>
-<td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-<br>Kubernetes
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=jenkins" width="65" height="65" alt="Jenkins" />
-<br>Jenkins
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
-<br>GitLab CI
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=terraform" width="65" height="65" alt="Terraform" />
-<br>Terraform
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ansible" width="65" height="65" alt="Ansible" />
-<br>Ansible
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=azure" width="65" height="65" alt="Azure" />
-<br>Azure
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="GCP" />
-<br>GCP
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" alt="Prometheus" />
-<br>Prometheus
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" alt="Grafana" />
-<br>Grafana
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-<br>Linux
-</td>
-</tr>
-</table>
-
-### 🎨 Frontend & Backend
+### 🎨 Frontend Technologies
 
 <table>
 <tr>
@@ -160,24 +106,86 @@ philosophy: |
 <br>React
 </td>
 <td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
 <br>Angular
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
-<br>Vue.js
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+<br>TailwindCSS
 </td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+<br>CSS3
+</td>
+</tr>
+</table>
+
+### ⚡ Backend & APIs
+
+<table>
+<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
 <br>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+<br>Express.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
+<br>NestJS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
+<br>GraphQL
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
 <br>Spring Boot
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
-<br>.NET
+<img src="https://skillicons.dev/icons?i=socketio" width="65" height="65" alt="Socket.IO" />
+<br>Socket.IO
+</td>
+</tr>
+</table>
+
+### 📱 Mobile Development
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ionic" width="65" height="65" alt="Ionic" />
+<br>Ionic
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React Native" />
+<br>React Native
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=swift" width="65" height="65" alt="Swift" />
+<br>Swift
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio" />
+<br>Android Studio
 </td>
 </tr>
 </table>
@@ -187,28 +195,90 @@ philosophy: |
 <table>
 <tr>
 <td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br>MySQL
+<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+<br>PostgreSQL
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
 <br>MongoDB
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=redis" width="65" height="65" alt="Redis" />
 <br>Redis
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+<br>Firebase
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
 <br>SQLite
 </td>
+</tr>
+</table>
+
+### 🤖 IA & Temps Réel
+
+<table>
+<tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-<br>Firebase
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+<br>NLP
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="65" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask" />
+<br>Flask
+</td>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/65/000000/chatgpt.png" alt="ChatGPT" />
+<br>ChatGPT API
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=socketio" width="65" height="65" alt="WebSockets" />
+<br>WebSockets
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="65" alt="Streamlit" />
+<br>Streamlit
+</td>
+</tr>
+</table>
+
+### 🛠️ Outils & DevOps
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gitlab" width="65" height="65" alt="GitLab" />
+<br>GitLab CI
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+<br>VS Code
 </td>
 </tr>
 </table>
@@ -246,38 +316,128 @@ philosophy: |
 
 <div align="left">
 
-### 💼 **Ingénieur DevOps** | Beyatech (Tunisie) - Stage PFE
-📅 *Mars 2024 - Septembre 2024*
+### 💼 **Full Stack Developer** | Binomial (Expertise Comptable)
+📅 *Décembre 2024 - Présent* | Paris, France — Bureau de Tunis (Lac 1)
+
+**Projet:** ChatCount - Assistant IA Comptable
 
 ```mermaid
 graph LR
-    A[🔧 Infrastructure] --> B[☁️ Cloud AWS]
-    A --> C[🐳 Docker/K8s]
-    B --> D[🚀 CI/CD Pipeline]
-    C --> D
-    D --> E[📊 Monitoring]
-    E --> F[✅ Production]
+    A[📄 Fichiers FEC] --> B[🤖 NLP Engine]
+    B --> C[🔍 Analyse Comptable]
+    C --> D[💬 Langage Naturel]
+    D --> E[📊 Résultats]
 ```
 
 **Réalisations:**
-- ⚡ Conception et déploiement d'une infrastructure cloud scalable sur AWS
-- 🔄 Mise en place de pipelines CI/CD avec Jenkins et GitLab CI
-- 🐳 Containerisation et orchestration avec Docker et Kubernetes
-- 📈 Monitoring et alerting avec Prometheus et Grafana
-- 🔐 Sécurisation des déploiements avec AWS IAM et Security Groups
+- 🤖 Développement de **ChatCount**, un chatbot intelligent pour l'analyse de fichiers comptables (FEC)
+- 🧠 Moteur d'analyse combinant **NLP**, reconnaissance de structures comptables et génération de requêtes MongoDB
+- � Migration vers **GraphQL & Next.js** (prévue mai 2025) pour scalabilité et maintenabilité
+- 💡 Requêtes en langage naturel pour extractions, filtres et analyses comptables
+- **Stack:** Angular · Node.js · Python · MongoDB → GraphQL · Next.js
 
 ---
 
-### 💼 **Développeur Full-Stack** | Beetsoft (Tunisie) - Stage d'été
-📅 *Juillet 2023 - Août 2023*
+### 💼 **Full Stack Developer (Focus Frontend)** | Easy Bank - Mission Freelance
+📅 *Avril 2025 - Août 2025* | Télétravail (4 mois)
 
-**Technologies:** Angular · TypeScript · Node.js · MongoDB · Express.js
+**Projet:** Dashboard Admin Bancaire Multilingue
 
-**Projet:** Développement d'une plateforme web de gestion complète
-- 🎨 Interface utilisateur moderne et responsive avec Angular
-- 🔧 API RESTful robuste avec Node.js et Express
-- 💾 Gestion de base de données avec MongoDB
-- 🔐 Authentification et autorisation sécurisées
+```mermaid
+graph TB
+    A[🏦 Services Bancaires] --> B[👥 Gestion Utilisateurs]
+    A --> C[� Modèles de Prêt]
+    B --> D[� Notifications Temps Réel]
+    C --> D
+    D --> E[📊 Dashboard Admin]
+```
+
+**Réalisations:**
+- 🎨 Interface **dashboard admin multilingue** pour gestion complète des services bancaires
+- 📋 Formulaires dynamiques et workflows d'onboarding personnalisés
+- 🔔 Système de **notifications temps réel** avec **Socket.IO**
+- 💅 UX responsive avec **TailwindCSS** et **shadcn/ui**
+- 🏦 Plateforme adoptée par plusieurs partenaires bancaires pour automatiser les parcours clients
+- **Stack:** Next.js · TailwindCSS · shadcn/ui · GraphQL · NestJS · Socket.IO · PostgreSQL
+
+---
+
+### 💼 **Co-founder & Full Stack Developer** | VOLO-BIKES - Projet de Fin d'Études
+📅 *Février 2024 - Août 2024* | Tunisie
+
+**Projet:** Solution de Mobilité Urbaine Électrique (MENA)
+
+```mermaid
+graph LR
+    A[🚴 Vélos Électriques] --> B[📱 App Mobile]
+    A --> C[🌐 Portail Web]
+    A --> D[⚙️ Back-Office]
+    B --> E[📍 GPS Tracking]
+    C --> E
+    D --> E
+    E --> F[📊 Analytics]
+```
+
+**Réalisations:**
+- � Lancement d'une **solution innovante de mobilité urbaine électrique** pour la région MENA
+- 📱 Développement de **3 plateformes** : portail d'achat, app mobile client, système de gestion interne
+- 🗺️ **Tracking GPS temps réel** avec **Mapbox** et **Socket.IO** pour suivi des véhicules
+- 📊 Outils d'analytics métier : taux d'utilisation, alertes maintenance, heatmaps de mobilité
+- 🏆 Projet labellisé **"Startup"** et présenté comme produit pilote lors de salons d'innovation
+- **Stack:** Angular · Ionic · Node.js · Redis · Socket.IO · Mapbox · PostgreSQL
+
+---
+
+### 💼 **Chef d'Équipe (Freelance)** | Viribus Centre
+📅 *Mars 2024 - Août 2024* | Tunisie
+
+**Projet:** Dashboard Analytics Temps Réel BIM & RDV
+
+**Réalisations:**
+- � Dashboard **temps réel** pour gestion BIM & RDV avec visualisation de données
+- ☁️ Déploiement sur **AWS** avec optimisation de la scalabilité
+- 📈 Amélioration de la prise de décision via reporting avancé
+- **Stack:** Angular · Node.js · MongoDB · AWS
+
+---
+
+### 💼 **Développeur Web** | Global ENR - Stage d'été
+📅 *Été 2023* | Tunis, Lac 2
+
+**Réalisations:**
+- 🧑‍💼 Applications Web RH et conception d'un **CRM**
+- **Stack:** Spring Boot · Angular · MongoDB
+
+---
+
+### 💼 **Software Engineer** | ESPRIT - Département Mobile - Stage d'été
+📅 *Juin 2023 - Août 2023* | Tunisie
+
+**Réalisations:**
+- 🤖 Développement d'un **chatbot de lecture de fichiers** avec **ChatGPT API**
+- **Stack:** Python · Streamlit · Flask · MongoDB
+
+---
+
+### 💼 **Web Developer** | North Events - Stage d'été
+📅 *Mars 2021 - Juin 2021* | Tunisie
+
+**Réalisations:**
+- 🎨 Réalisation d'interfaces Web avec **React**
+- **Stack:** Node.js · React.js · MongoDB
+
+---
+
+### 💼 **Backend Developer** | SNIT (Société Nationale Immobilière) - Stage Licence
+📅 *Juin 2022 - Août 2022* | Tunisie
+
+**Projet:** Application Gestion des Contentieux (Web-Mobile)
+
+**Réalisations:**
+- ⚖️ Workflows de suivi de procès, pré-contentieux
+- � Migration/import de données, recherche, export d'états
+- � Gestion des profils, statistiques, traçabilité et alertes
+- **Stack:** CodeIgniter · PHP · Express.js · React · Node.js · Doctrine2 · MySQL
 
 </div>
 
@@ -290,23 +450,75 @@ graph LR
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🤖 ChatBot Esprit</h3>
+<h3 align="center">🤖 ChatCount - Assistant IA Comptable</h3>
 <div align="center">  
-<a href="https://github.com/achrefmej/ChatBot_esprit" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repo-00D9FF?style=for-the-badge&logo=github" alt="View Repo" />
+<a href="https://github.com/achrefmej" target="_blank">
+<img src="https://img.shields.io/badge/Binomial-En_Production-00D9FF?style=for-the-badge&logo=rocket" alt="En Production" />
 </a>
-<p><strong>Python · ChatGPT API · NLP</strong></p>
+<p><strong>Angular · Node.js · Python · MongoDB · NLP</strong></p>
 <p align="left">
-🔹 Chatbot intelligent pour la lecture de fichiers<br/>
-🔹 Intégration de l'API ChatGPT<br/>
-🔹 Réponses contextuelles et précises<br/>
-🔹 Interface utilisateur intuitive
+🔹 Assistant intelligent pour analyse de fichiers FEC<br/>
+🔹 Requêtes en langage naturel<br/>
+🔹 Moteur NLP pour structures comptables<br/>
+🔹 Migration GraphQL & Next.js en cours
 </p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">📱 Frippy - App Mobile</h3>
+<h3 align="center">🏦 Easy Bank - Dashboard Admin</h3>
+<div align="center">
+<a href="https://github.com/achrefmej" target="_blank">
+<img src="https://img.shields.io/badge/Freelance-Complété-00D9FF?style=for-the-badge&logo=checkmarx" alt="Complété" />
+</a>
+<p><strong>Next.js · TailwindCSS · GraphQL · Socket.IO</strong></p>
+<p align="left">
+🔹 Dashboard bancaire multilingue<br/>
+🔹 Notifications temps réel<br/>
+🔹 Workflows d'onboarding personnalisés<br/>
+🔹 Gestion complète des services bancaires
+</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">� VOLO-BIKES - Mobilité Urbaine</h3>
+<div align="center">
+<a href="https://github.com/achrefmej" target="_blank">
+<img src="https://img.shields.io/badge/Startup-Labellisé-00D9FF?style=for-the-badge&logo=starship" alt="Startup" />
+</a>
+<p><strong>Angular · Ionic · Node.js · Socket.IO · Mapbox</strong></p>
+<p align="left">
+🔹 Solution de mobilité électrique MENA<br/>
+🔹 Tracking GPS temps réel<br/>
+🔹 3 plateformes (Web, Mobile, Back-Office)<br/>
+🔹 Analytics métier et heatmaps
+</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🤖 ChatBot Esprit - Lecteur IA</h3>
+<div align="center">
+<a href="https://github.com/achrefmej/ChatBot_esprit" target="_blank">
+<img src="https://img.shields.io/badge/Code-View_Repo-00D9FF?style=for-the-badge&logo=github" alt="View Repo" />
+</a>
+<p><strong>Python · ChatGPT API · Streamlit · Flask</strong></p>
+<p align="left">
+🔹 Chatbot intelligent pour lecture de fichiers<br/>
+🔹 Intégration ChatGPT API<br/>
+🔹 Réponses contextuelles et précises<br/>
+🔹 Interface Streamlit intuitive
+</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">� Frippy - App Mobile</h3>
 <div align="center">
 <a href="https://github.com/achrefmej/Frippy" target="_blank">
 <img src="https://img.shields.io/badge/Code-View_Repo-00D9FF?style=for-the-badge&logo=github" alt="View Repo" />
@@ -320,37 +532,19 @@ graph LR
 </p>
 </div>
 </td>
-</tr>
 
-<tr>
 <td width="50%">
-<h3 align="center">🗺️ Indoor Navigation</h3>
+<h3 align="center">�️ Indoor Navigation</h3>
 <div align="center">
 <a href="https://github.com/achrefmej/Indoor_Navigation" target="_blank">
 <img src="https://img.shields.io/badge/Code-View_Repo-00D9FF?style=for-the-badge&logo=github" alt="View Repo" />
 </a>
-<p><strong>Géolocalisation · Cartographie</strong></p>
+<p><strong>Géolocalisation · Cartographie · IoT</strong></p>
 <p align="left">
 🔹 Système de navigation intérieure<br/>
 🔹 Cartographie dynamique<br/>
 🔹 Algorithmes de localisation précis<br/>
 🔹 Interface interactive
-</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">💼 Portfolio Personnel</h3>
-<div align="center">
-<a href="https://github.com/achrefmej/Portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repo-00D9FF?style=for-the-badge&logo=github" alt="View Repo" />
-</a>
-<p><strong>JavaScript · HTML5 · CSS3</strong></p>
-<p align="left">
-🔹 Portfolio moderne et responsive<br/>
-🔹 Animations et effets interactifs<br/>
-🔹 Design épuré et professionnel<br/>
-🔹 Optimisé pour tous les appareils
 </p>
 </div>
 </td>
@@ -361,16 +555,20 @@ graph LR
 
 ---
 
-## 📜 Certifications & Formations
+## 📜 Certifications & Compétences Clés
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Organisme | 📅 Date |
+| 🎓 Domaine | 💼 Compétences | 📅 Niveau |
 |:---|:---|:---:|
-| ☁️ AWS Certified Solutions Architect | Amazon Web Services | En cours |
-| 🐳 Docker & Kubernetes Mastery | Udemy | 2024 |
-| 🔄 CI/CD Pipeline Implementation | GitLab | 2024 |
-| 📊 Monitoring avec Prometheus & Grafana | Coursera | 2024 |
+| 🤖 **IA & NLP** | ChatGPT API, NLP, Chatbots Intelligents | Expert |
+| ⚡ **Temps Réel** | WebSockets, Socket.IO, Notifications Push | Expert |
+| 🎨 **Frontend** | Angular, React, Next.js, TailwindCSS | Expert |
+| ⚙️ **Backend** | Node.js, NestJS, GraphQL, Python, Spring Boot | Expert |
+| � **Mobile** | Ionic, React Native, Kotlin, Swift | Avancé |
+| �️ **Databases** | PostgreSQL, MongoDB, Redis, MySQL | Expert |
+| ☁️ **DevOps** | Docker, AWS, GitLab CI, Git | Avancé |
+| 🏗️ **Architecture** | Microservices, RESTful APIs, Scalabilité | Expert |
 
 </div>
 
