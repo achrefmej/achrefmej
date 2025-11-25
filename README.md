@@ -230,7 +230,7 @@ philosophy: |
 <br>NLP
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="65" alt="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
 <br>TensorFlow
 </td>
 <td align="center" width="100">
@@ -238,7 +238,7 @@ philosophy: |
 <br>Flask
 </td>
 <td align="center" width="100">
-<img src="https://img.icons8.com/color/65/000000/chatgpt.png" alt="ChatGPT" />
+<img src="https://skillicons.dev/icons?i=openai" width="65" height="65" alt="ChatGPT" />
 <br>ChatGPT API
 </td>
 <td align="center" width="100">
@@ -246,7 +246,7 @@ philosophy: |
 <br>WebSockets
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="65" alt="Streamlit" />
+<img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" height="65" alt="Streamlit" />
 <br>Streamlit
 </td>
 </tr>
@@ -579,9 +579,9 @@ graph LR
 <div align="center">
 
 ```
-�� Arabe       ████████████████████ 100% (Langue maternelle)
-�� Français    ████████████████░░░░ 80% (Courant)
-�� Anglais     ████████████████░░░░ 80%  (Courant)
+🇹🇳 Arabe       ████████████████████ 100% (Langue maternelle)
+🇫🇷 Français    ████████████████████ 100% (Langue maternelle)
+🇬🇧 Anglais     ████████████████░░░░ 80%  (Courant)
 ```
 
 </div>
@@ -593,9 +593,9 @@ graph LR
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achref-mejri-8a9253179)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achref.mejri.gl@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mejri.achref.working@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/achrefmej)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/achrefmej/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-uo5z.onrender.com/)
 
 </div>
 
@@ -612,22 +612,7 @@ graph LR
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/achrefmej/achrefmej/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📊 Contribution Graph 3D
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" width="100%" />
-
-### 🎯 Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-## 💡 Citation du Moment
-
-<div align="center">
+### 💡 Citation du Moment
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
@@ -635,13 +620,15 @@ graph LR
 
 ---
 
-## 📈 Visitor Count
+## 📈 Statistiques des Visiteurs
 
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/achrefmej/count.svg)
 
 <img src="https://komarev.com/ghpvc/?username=achrefmej&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+
+[![Portfolio Views](https://img.shields.io/badge/Portfolio-Visitez_Mon_Site-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-uo5z.onrender.com/)
 
 </div>
 
